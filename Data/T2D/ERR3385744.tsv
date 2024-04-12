@@ -1,0 +1,812 @@
+%	reads	taxReads	kmers	dup	cov	taxID	rank	taxName
+0.3583	152	152	5651472	1.95	NA	0	no rank	unclassified
+99.64	42270	13	98660	134	2.927e-06	1	no rank	root
+95.82	40649	0	97651	129	2.925e-06	131567	no rank	  cellular organisms
+95.78	40633	138	95093	132	3.179e-06	2	superkingdom	    Bacteria
+70.19	29778	0	45182	108	1.694e-05	1783270	clade	      FCB group
+70.19	29776	0	45126	108	1.709e-05	68336	clade	        Bacteroidetes/Chlorobi group
+70.18	29771	34	45032	108	1.734e-05	976	phylum	          Bacteroidetes
+69.95	29675	0	43511	106	9.302e-05	200643	class	            Bacteroidia
+69.95	29675	62	43432	106	9.934e-05	171549	order	              Bacteroidales
+56.2	23840	208	30256	92.4	0.0001839	815	family	                Bacteroidaceae
+55.45	23523	12682	29102	68	0.000205	816	genus	                  Bacteroides
+11.83	5020	5019	2672	76.5	0.0005483	820	species	                    Bacteroides uniformis
+0.002357	1	1	25	1	3.661e-05	997890	strain	                      Bacteroides uniformis CL03T12C37
+8.335	3536	3536	4532	53.6	0.0003647	246787	species	                    Bacteroides cellulosilyticus
+3.828	1624	1624	1153	86	0.0001419	28116	species	                    Bacteroides ovatus
+0.4337	184	184	89	20.2	1.581e-05	47678	species	                    Bacteroides caccae
+0.2263	96	96	5335	1.79	0.0003666	817	species	                    Bacteroides fragilis
+0.1909	81	60	7974	1.6	0.0007505	818	species	                    Bacteroides thetaiotaomicron
+0.0495	21	21	1	43	0.0002825	226186	strain	                      Bacteroides thetaiotaomicron VPI-5482
+0.1815	77	77	43	26.1	1.513e-05	28113	species	                    Bacteroides heparinolyticus
+0.1744	74	74	51	14.5	9.827e-06	291645	species	                    Bacteroides nordii
+0.1462	62	0	27	30.7	7.061e-06	290053	species	                    Bacteroides helcogenes
+0.1462	62	62	27	30.7	7.061e-06	693979	strain	                      Bacteroides helcogenes P 36-108
+0.08958	38	38	14	8.64	4.127e-06	2650158	species	                    Bacteroides luhongzhouii
+0.03064	13	13	58	8.41	1.254e-05	329854	species	                    Bacteroides intestinalis
+0.02829	12	12	29	11.4	1.074e-05	1796613	species	                    Bacteroides caecimuris
+0.02357	10	3	357	1.87	4.651e-05	2646097	no rank	                    unclassified Bacteroides
+0.01414	6	6	7	6.43	2.667e-05	2785531	species	                      Bacteroides sp. HF-162
+0.002357	1	1	23	1	6.323e-05	2528203	species	                      Bacteroides sp. A1C1
+0.01414	6	6	15	4.6	4.427e-06	46506	species	                    Bacteroides stercoris
+0.007072	3	3	1	5	1.394e-07	291644	species	                    Bacteroides salyersiae
+0.004715	2	2	183	1.42	4.279e-05	2650157	species	                    Bacteroides zhangwenhongii
+0.002357	1	1	295	1.31	4.287e-05	371601	species	                    Bacteroides xylanisolvens
+0.002357	1	1	16	11.2	6.084e-06	28119	species	                    Bacteroides zoogleoformans
+0.002357	1	1	126	1.1	2.621e-05	674529	species	                    Bacteroides faecis
+0.2569	109	21	457	22.1	2.189e-05	909656	genus	                  Phocaeicola
+0.1155	49	49	164	24.3	4.752e-05	387090	species	                    Phocaeicola coprophilus
+0.066	28	27	108	10.2	1.951e-05	821	species	                    Phocaeicola vulgatus
+0.002357	1	1	36	2.92	7.711e-05	435590	strain	                      Phocaeicola vulgatus ATCC 8482
+0.02122	9	9	31	21	5.741e-06	357276	species	                    Phocaeicola dorei
+0.004715	2	0	37	5.35	9.187e-06	376805	species	                    Phocaeicola salanitronis
+0.004715	2	2	37	5.35	9.187e-06	667015	strain	                      Phocaeicola salanitronis DSM 18170
+12.02	5099	3	10541	80.2	0.0002685	2005525	family	                Tannerellaceae
+12	5092	350	10504	76.3	0.0003275	375288	genus	                  Parabacteroides
+8.58	3640	3640	3871	57.7	0.0007351	46503	species	                    Parabacteroides merdae
+2.513	1066	1062	2054	17.8	0.0002509	823	species	                    Parabacteroides distasonis
+0.009429	4	4	53	3.87	0.0001332	435591	strain	                      Parabacteroides distasonis ATCC 8503
+0.0495	21	21	73	9.56	7.95e-06	328812	species	                    Parabacteroides goldsteinii
+0.03536	15	15	96	7.09	2.494e-05	387661	species	                    Parabacteroides johnsonii
+0.009429	4	2	42	39.6	5.851e-06	195950	genus	                  Tannerella
+0.004715	2	2	7	7.86	2.474e-06	712710	species	                    Tannerella serpentiformis
+0.7001	297	8	1117	54.9	9.229e-06	171552	family	                Prevotellaceae
+0.66	280	10	777	68.3	6.791e-06	838	genus	                  Prevotella
+0.594	252	0	204	156	6.081e-05	165179	species	                    Prevotella copri
+0.594	252	252	204	156	6.081e-05	537011	strain	                      Prevotella copri DSM 18205
+0.02357	10	2	82	18.2	2.985e-06	2638335	no rank	                    unclassified Prevotella
+0.009429	4	4	28	7.5	1.064e-05	2691580	species	                      Prevotella sp. Rep29
+0.004715	2	2	8	9.75	2.228e-06	2913621	species	                      Prevotella sp. E9-3
+0.002357	1	1	7	65.4	2.227e-06	2937774	species	                      Prevotella sp. E15-22
+0.002357	1	1	19	6.05	7.776e-06	712471	species	                      Prevotella sp. oral taxon 475
+0.009429	4	4	25	34.3	8.353e-06	28127	species	                    Prevotella buccalis
+0.004715	2	2	29	6.03	1.144e-05	76123	species	                    Prevotella enoeca
+0.002357	1	0	15	28.5	2.96e-06	839	species	                    Prevotella ruminicola
+0.002357	1	1	6	4.83	3.523e-06	264731	strain	                      Prevotella ruminicola 23
+0.002357	1	1	28	11.9	4.979e-06	77095	species	                    Prevotella bryantii
+0.01179	5	0	258	1.61	6.878e-05	577309	genus	                  Paraprevotella
+0.01179	5	0	258	1.61	6.878e-05	454155	species	                    Paraprevotella xylaniphila
+0.01179	5	5	258	1.61	6.878e-05	762982	strain	                      Paraprevotella xylaniphila YIT 11841
+0.009429	4	0	37	44.5	1.3e-05	2884814	genus	                  Pseudoprevotella
+0.009429	4	4	37	44.5	1.3e-05	2133944	species	                    Pseudoprevotella muciniphila
+0.66	280	0	1219	50.9	9.541e-05	1853231	family	                Odoribacteraceae
+0.6176	262	0	908	61.8	0.0002215	283168	genus	                  Odoribacter
+0.6176	262	262	908	61.8	0.0002215	28118	species	                    Odoribacter splanchnicus
+0.04243	18	17	289	4.08	3.332e-05	574697	genus	                  Butyricimonas
+0.002357	1	1	96	1.12	2.16e-05	544645	species	                    Butyricimonas virosa
+0.1273	54	0	745	14.7	2.471e-05	171550	family	                Rikenellaceae
+0.1273	54	2	745	14.7	2.471e-05	239759	genus	                  Alistipes
+0.07779	33	33	243	10.1	9.142e-05	2585119	species	                    Alistipes dispar
+0.03536	15	15	52	5.58	1.444e-05	1288121	species	                    Alistipes senegalensis
+0.007072	3	3	98	2.58	3.284e-05	626932	species	                    Alistipes indistinctus
+0.002357	1	1	25	1.8	5.551e-06	214856	species	                    Alistipes finegoldii
+0.04715	20	0	244	11.3	1.264e-05	171551	family	                Porphyromonadaceae
+0.04715	20	12	244	11.3	1.264e-05	836	genus	                  Porphyromonas
+0.007072	3	3	36	6.75	5.853e-06	837	species	                    Porphyromonas gingivalis
+0.004715	2	0	33	23.7	1.577e-05	28123	species	                    Porphyromonas asaccharolytica
+0.004715	2	2	33	23.7	1.577e-05	879243	strain	                      Porphyromonas asaccharolytica DSM 20707
+0.004715	2	0	42	13.6	1.96e-05	2645799	no rank	                    unclassified Porphyromonas
+0.004715	2	2	42	13.6	1.96e-05	712435	species	                      Porphyromonas sp. oral taxon 275
+0.002357	1	1	23	1.39	1.124e-05	393921	species	                    Porphyromonas crevioricanis
+0.01414	6	0	21	18.4	6.643e-06	2760872	family	                Tenuifilaceae
+0.01414	6	0	21	18.4	6.643e-06	2760873	genus	                  Tenuifilum
+0.01414	6	6	21	18.4	6.643e-06	2590900	species	                    Tenuifilum thalassicum
+0.01179	5	0	111	17.9	6.216e-06	2005520	family	                Dysgonomonadaceae
+0.01179	5	0	36	42.3	5.598e-06	156973	genus	                  Dysgonomonas
+0.01179	5	5	36	42.3	5.598e-06	2630389	no rank	                    unclassified Dysgonomonas
+0.01179	5	0	48	12.5	5.083e-06	2005473	family	                Muribaculaceae
+0.007072	3	0	30	5.83	9.367e-06	2815786	genus	                  Sodaliphilus
+0.007072	3	3	30	5.83	9.367e-06	2606626	species	                    Sodaliphilus pleomorphus
+0.004715	2	0	8	47.6	2.539e-06	2518495	genus	                  Duncaniella
+0.004715	2	0	8	47.6	2.539e-06	2649562	no rank	                    unclassified Duncaniella
+0.004715	2	2	8	47.6	2.539e-06	2576606	species	                      Duncaniella sp. B8
+0.01179	5	0	76	3.41	1.125e-05	2005519	family	                Barnesiellaceae
+0.01179	5	0	62	3.13	2.161e-05	397864	genus	                  Barnesiella
+0.01179	5	0	62	3.13	2.161e-05	397865	species	                    Barnesiella viscericola
+0.01179	5	5	62	3.13	2.161e-05	880074	strain	                      Barnesiella viscericola DSM 18177
+0.004715	2	0	23	7	6.295e-06	2005523	family	                Paludibacteraceae
+0.004715	2	0	23	7	6.295e-06	346096	genus	                  Paludibacter
+0.004715	2	0	23	7	6.295e-06	185300	species	                    Paludibacter propionicigenes
+0.004715	2	2	23	7	6.295e-06	694427	strain	                      Paludibacter propionicigenes WB4
+0.08958	38	0	417	72.5	8.024e-07	768503	class	            Cytophagia
+0.08958	38	5	417	72.5	8.024e-07	768507	order	              Cytophagales
+0.0495	21	0	28	930	1.16e-06	200667	family	                Flammeovirgaceae
+0.0495	21	2	28	930	1.16e-06	59739	genus	                  Flammeovirga
+0.04479	19	0	25	1.04e+03	6.19e-06	2637820	no rank	                    unclassified Flammeovirga
+0.04479	19	19	25	1.04e+03	6.19e-06	1191459	species	                      Flammeovirga sp. MY04
+0.01179	5	0	67	26.8	6.427e-07	89373	family	                Cytophagaceae
+0.009429	4	2	31	21.7	3.621e-07	107	genus	                  Spirosoma
+0.004715	2	2	10	52.2	1.745e-06	1178516	species	                    Spirosoma montaniterrae
+0.002357	1	0	8	6.62	9.169e-07	455076	genus	                  Rhodocytophaga
+0.002357	1	1	8	6.62	9.169e-07	2704465	species	                    Rhodocytophaga rosea
+0.007072	3	0	96	6.15	4.744e-07	1853232	family	                Hymenobacteraceae
+0.004715	2	0	14	17.4	3.343e-06	1649474	genus	                  Nibribacter
+0.004715	2	2	14	17.4	3.343e-06	2698458	species	                    Nibribacter ruber
+0.002357	1	0	40	3.08	3.079e-06	299566	genus	                  Adhaeribacter
+0.002357	1	1	26	3.73	3.819e-06	2745197	species	                    Adhaeribacter radiodurans
+0.004715	2	0	22	5.77	3.218e-07	563798	family	                Cyclobacteriaceae
+0.004715	2	0	17	7.18	3.625e-06	1511649	genus	                  Mongoliitalea
+0.004715	2	2	17	7.18	3.625e-06	2782006	species	                    Mongoliitalea daihaiensis
+0.002357	1	0	39	1.44	6.977e-06	1501348	family	                Amoebophilaceae
+0.002357	1	0	31	1.52	1.79e-05	281119	genus	                  Candidatus Amoebophilus
+0.002357	1	0	31	1.52	1.79e-05	281120	species	                    Candidatus Amoebophilus asiaticus
+0.002357	1	1	31	1.52	1.79e-05	452471	strain	                      Candidatus Amoebophilus asiaticus 5a2
+0.002357	1	0	11	3.36	2.31e-06	1937968	family	                Bernardetiaceae
+0.002357	1	0	11	3.36	2.31e-06	1937972	genus	                  Bernardetia
+0.002357	1	0	11	3.36	2.31e-06	999	species	                    Bernardetia litoralis
+0.002357	1	1	11	3.36	2.31e-06	880071	strain	                      Bernardetia litoralis DSM 6794
+0.02122	9	0	27	145	1.649e-06	1100069	order	            Bacteroidetes Order II. Incertae sedis
+0.02122	9	0	27	145	1.649e-06	563843	family	              Rhodothermaceae
+0.02122	9	0	27	145	3.011e-06	146918	genus	                Salinibacter
+0.02122	9	9	27	145	3.011e-06	146919	species	                  Salinibacter ruber
+0.0165	7	0	43	10.1	2.475e-07	1853228	class	            Chitinophagia
+0.0165	7	0	43	10.1	2.475e-07	1853229	order	              Chitinophagales
+0.0165	7	1	43	10.1	2.475e-07	563835	family	                Chitinophagaceae
+0.01414	6	0	19	19.5	1.856e-06	379899	genus	                  Niabella
+0.01414	6	6	15	24.4	2.695e-06	1176587	species	                    Niabella ginsenosidivorans
+0.01414	6	0	417	6.77	3.72e-07	117743	class	            Flavobacteriia
+0.01414	6	0	417	6.77	3.72e-07	200644	order	              Flavobacteriales
+0.007072	3	0	35	2.23	2.088e-06	39782	family	                Blattabacteriaceae
+0.007072	3	2	35	2.23	2.088e-06	34098	genus	                  Blattabacterium
+0.002357	1	1	11	1.55	9.894e-07	1653831	species	                    Blattabacterium cuenoti
+0.004715	2	0	191	9.04	2.45e-07	49546	family	                Flavobacteriaceae
+0.004715	2	0	13	5.23	1.888e-06	393005	genus	                  Tamlana
+0.004715	2	0	13	5.23	4.109e-06	2614803	no rank	                    unclassified Tamlana
+0.004715	2	2	13	5.23	4.109e-06	1630406	species	                      Tamlana sp. s12
+0.002357	1	0	74	3.88	3.207e-05	313602	no rank	                Flavobacteriales incertae sedis
+0.002357	1	0	64	4.33	3.199e-05	336809	genus	                  Candidatus Sulcia
+0.002357	1	1	64	4.33	3.199e-05	336810	species	                    Candidatus Sulcia muelleri
+0.004715	2	0	90	4.16	3.207e-07	117747	class	            Sphingobacteriia
+0.004715	2	0	90	4.16	3.207e-07	200666	order	              Sphingobacteriales
+0.004715	2	0	90	4.16	3.207e-07	84566	family	                Sphingobacteriaceae
+0.002357	1	0	17	4	2.189e-07	84567	genus	                  Pedobacter
+0.002357	1	0	6	1.17	1.787e-07	2628915	no rank	                    unclassified Pedobacter
+0.002357	1	1	6	1.17	1.093e-06	2578106	species	                      Pedobacter sp. KBS0701
+0.002357	1	0	24	2.38	2.657e-07	28453	genus	                  Sphingobacterium
+0.002357	1	1	3	2.33	9.533e-08	2609468	no rank	                    unclassified Sphingobacterium
+0.007072	3	0	40	8.1	5.829e-06	1134404	phylum	          Ignavibacteriae
+0.007072	3	0	40	8.1	5.829e-06	795747	class	            Ignavibacteria
+0.007072	3	1	40	8.1	5.829e-06	795748	order	              Ignavibacteriales
+0.004715	2	0	24	9.08	7.324e-06	1334117	family	                Melioribacteraceae
+0.004715	2	0	24	9.08	7.324e-06	1134403	genus	                  Melioribacter
+0.004715	2	0	24	9.08	7.324e-06	1134405	species	                    Melioribacter roseus
+0.004715	2	2	24	9.08	7.324e-06	1191523	strain	                      Melioribacter roseus P3M-2
+0.004715	2	0	46	1.09	1.415e-06	1090	phylum	          Chlorobi
+0.004715	2	0	46	1.09	1.415e-06	191410	class	            Chlorobia
+0.004715	2	0	46	1.09	1.415e-06	191411	order	              Chlorobiales
+0.004715	2	0	46	1.09	1.415e-06	191412	family	                Chlorobiaceae
+0.002357	1	0	16	1	4.894e-06	100715	genus	                  Chloroherpeton
+0.002357	1	0	16	1	4.894e-06	100716	species	                    Chloroherpeton thalassium
+0.002357	1	1	16	1	4.894e-06	517418	strain	                      Chloroherpeton thalassium ATCC 35110
+0.002357	1	0	4	1	5.774e-07	256319	genus	                  Chlorobaculum
+0.002357	1	0	4	1	1.831e-06	274539	species	                    Chlorobaculum parvum
+0.002357	1	1	4	1	1.831e-06	517417	strain	                      Chlorobaculum parvum NCIB 8327
+0.004715	2	0	8	4.12	3.629e-06	456828	phylum	        Candidatus Cloacimonetes
+0.004715	2	0	8	4.12	3.629e-06	456826	genus	          Candidatus Cloacimonas
+0.004715	2	0	8	4.12	3.629e-06	456827	species	            Candidatus Cloacimonas acidaminovorans
+0.004715	2	2	8	4.12	3.629e-06	459349	strain	              Candidatus Cloacimonas acidaminovorans str. Evry
+23.56	9995	0	20707	76.6	1.829e-06	1783272	clade	      Terrabacteria group
+23.52	9977	25	18696	82.4	4.425e-06	1239	phylum	        Firmicutes
+15.74	6678	0	12338	82.3	1.283e-05	186801	class	          Clostridia
+15.74	6676	68	12203	82.9	1.411e-05	186802	order	            Eubacteriales
+8.229	3491	235	5611	32.6	3.016e-05	186803	family	              Lachnospiraceae
+2.23	946	0	210	93.4	7.664e-05	28050	genus	                Lachnospira
+2.23	946	946	210	93.4	7.664e-05	39485	species	                  Lachnospira eligens
+1.388	589	68	348	24.5	1.003e-05	572511	genus	                Blautia
+1.103	468	0	9	631	1.2e-06	2648079	no rank	                  unclassified Blautia
+1.103	468	468	9	631	4.429e-06	2479767	species	                    Blautia sp. SC05B48
+0.08486	36	36	29	42.4	1.422e-05	1737424	species	                  Blautia massiliensis
+0.01886	8	8	115	2.83	3.811e-05	1912897	species	                  Blautia argi
+0.01414	6	6	30	2.27	8.827e-06	2779518	species	                  Blautia liquoris
+0.007072	3	3	18	2.33	2.121e-06	33035	species	                  Blautia producta
+0.6907	293	0	41	44	1.535e-05	1164882	genus	                Lachnoanaerobaculum
+0.6907	293	293	41	44	1.535e-05	617123	species	                  Lachnoanaerobaculum umeaense
+0.6412	272	0	101	74.2	1.718e-05	33042	genus	                Coprococcus
+0.6341	269	269	94	79.5	3.202e-05	410072	species	                  Coprococcus comes
+0.007072	3	0	7	3.86	2.379e-06	33043	species	                  Coprococcus eutactus
+0.007072	3	3	7	3.86	2.379e-06	411474	strain	                    Coprococcus eutactus ATCC 27759
+0.5728	243	0	1487	13.5	0.0003226	2316020	genus	                Mediterraneibacter
+0.5728	243	243	1487	13.5	0.0003226	33038	species	                  [Ruminococcus] gnavus
+0.5657	240	236	30	28	2.513e-06	830	genus	                Butyrivibrio
+0.007072	3	3	12	6.75	2.798e-06	831	species	                  Butyrivibrio fibrisolvens
+0.002357	1	1	3	7.33	9.046e-07	185008	species	                  Butyrivibrio hungatei
+0.4738	201	0	49	47.3	1.087e-05	2719231	genus	                Lacrimispora
+0.4738	201	0	49	47.3	1.087e-05	84030	species	                  Lacrimispora saccharolytica
+0.4738	201	201	49	47.3	1.087e-05	610130	strain	                    [Clostridium] saccharolyticum WM1
+0.2569	109	0	1523	2.95	0.0001442	2719313	genus	                Enterocloster
+0.2569	109	109	1523	2.95	0.0001442	208479	species	                  Enterocloster bolteae
+0.1862	79	0	51	57.8	2.643e-05	1506577	genus	                Tyzzerella
+0.1862	79	79	51	57.8	2.643e-05	36835	species	                  [Clostridium] colinum
+0.1603	68	0	109	15.6	4.094e-06	1506553	genus	                Lachnoclostridium
+0.1226	52	0	49	21.6	8.289e-06	2608895	no rank	                  unclassified Lachnoclostridium
+0.1226	52	52	49	21.6	8.289e-06	1834196	species	                    Lachnoclostridium sp. YL32
+0.01414	6	6	14	36.1	4.303e-06	1871021	species	                  Lachnoclostridium phocaeense
+0.009429	4	0	4	8	8.394e-07	66219	species	                  Lachnoclostridium phytofermentans
+0.009429	4	4	4	8	8.394e-07	357809	strain	                    Lachnoclostridium phytofermentans ISDg
+0.007072	3	3	28	2.46	5.818e-06	89153	species	                  [Clostridium] hylemonae
+0.007072	3	3	14	2.29	1.779e-06	29347	species	                  [Clostridium] scindens
+0.1296	55	52	341	12.1	3.317e-05	841	genus	                Roseburia
+0.004715	2	0	4	4	1.231e-06	166486	species	                  Roseburia intestinalis
+0.004715	2	2	4	4	1.231e-06	536231	strain	                    Roseburia intestinalis L1-82
+0.002357	1	1	30	1.07	9.352e-06	301301	species	                  Roseburia hominis
+0.09193	39	0	74	15	2.425e-05	2039240	genus	                Anaerotignum
+0.09193	39	0	74	15	2.425e-05	28446	species	                  Anaerotignum propionicum
+0.09193	39	39	74	15	2.425e-05	991789	strain	                    Anaerotignum propionicum DSM 1682
+0.08722	37	1	223	26.6	2.075e-05	207244	genus	                Anaerostipes
+0.08015	34	34	156	25.3	5.332e-05	649756	species	                  Anaerostipes hadrus
+0.002357	1	1	11	53.2	2.54e-06	105841	species	                  Anaerostipes caccae
+0.002357	1	1	2	4.5	5.874e-07	1229621	species	                  Anaerostipes rhamnosivorans
+0.0825	35	0	16	31.2	5.037e-06	2569097	genus	                Anaerobutyricum
+0.0825	35	35	16	31.2	5.037e-06	39488	species	                  Anaerobutyricum hallii
+0.03536	15	0	25	78	8.425e-06	2944195	genus	                Qiania
+0.03536	15	15	25	78	8.425e-06	2763669	species	                  Qiania dongpingensis
+0.02593	11	0	137	4.83	4.755e-05	189330	genus	                Dorea
+0.02593	11	11	137	4.83	4.755e-05	88431	species	                  Dorea longicatena
+0.01179	5	0	106	2.15	3.247e-05	2944193	genus	                Simiaoa
+0.01179	5	5	106	2.15	3.247e-05	2763672	species	                  Simiaoa sunii
+0.01179	5	1	23	6.43	1.413e-06	1843210	genus	                Anaerocolumna
+0.007072	3	3	4	3	7.194e-07	1727145	species	                  Anaerocolumna chitinilytica
+0.002357	1	1	10	5.4	1.85e-06	2696063	species	                  Anaerocolumna sedimenticola
+0.009429	4	0	5	43	1.518e-06	2888809	genus	                Novisyntrophococcus
+0.009429	4	4	5	43	1.518e-06	2068655	species	                  Novisyntrophococcus fermenticellae
+0.007072	3	0	20	3.15	6.498e-06	1769710	genus	                Sellimonas
+0.007072	3	3	20	3.15	6.498e-06	1653434	species	                  Sellimonas intestinalis
+0.007072	3	0	4	4.75	1.168e-06	46205	genus	                Pseudobutyrivibrio
+0.007072	3	3	4	4.75	1.168e-06	185007	species	                  Pseudobutyrivibrio xylanivorans
+0.004715	2	0	19	1.58	4.974e-06	2944198	genus	                Wansuia
+0.004715	2	2	19	1.58	4.974e-06	2763667	species	                  Wansuia hejianensis
+0.002357	1	1	28	8.57	4.198e-06	698776	genus	                Cellulosilyticum
+0.002357	1	0	2	6	7.991e-07	1663717	genus	                Herbinix
+0.002357	1	1	2	6	7.991e-07	1679721	species	                  Herbinix luporum
+6.266	2658	13	3235	189	2.924e-05	216572	family	              Oscillospiraceae
+5.94	2520	341	1788	255	6.67e-05	216851	genus	                Faecalibacterium
+5.136	2179	2179	848	76.5	9.791e-05	853	species	                  Faecalibacterium prausnitzii
+0.1108	47	0	145	33.6	1.924e-05	946234	genus	                Flavonifractor
+0.1108	47	47	145	33.6	1.924e-05	292800	species	                  Flavonifractor plautii
+0.04479	19	19	115	7.76	2.588e-05	2892396	genus	                Vescimonas
+0.04243	18	0	162	12.5	5.069e-05	2591381	genus	                Dysosmobacter
+0.04243	18	18	162	12.5	5.069e-05	2093857	species	                  Dysosmobacter welbionis
+0.02593	11	0	51	14.7	2.182e-05	2842531	genus	                Solibaculum
+0.02593	11	11	51	14.7	2.182e-05	2780922	species	                  Solibaculum mannosilyticum
+0.02122	9	0	55	10.6	5.848e-06	1263	genus	                Ruminococcus
+0.0165	7	7	49	11.2	2.129e-05	2564099	species	                  Ruminococcus bovis
+0.004715	2	2	6	5.33	2.111e-06	1160721	species	                  Ruminococcus bicirculans
+0.01886	8	0	17	6.47	5.277e-06	244127	genus	                Anaerotruncus
+0.01886	8	8	17	6.47	5.277e-06	169435	species	                  Anaerotruncus colihominis
+0.009429	4	0	141	6.05	3.38e-05	1905344	genus	                Ruthenibacterium
+0.009429	4	4	141	6.05	3.38e-05	1550024	species	                  Ruthenibacterium lactatiformans
+0.007072	3	0	51	2.16	1.596e-05	2892397	genus	                Pusillibacter
+0.007072	3	3	51	2.16	1.596e-05	2714358	species	                  Pusillibacter faecalis
+0.004715	2	0	27	10.6	1.615e-05	236752	genus	                Fastidiosipila
+0.004715	2	2	27	10.6	1.615e-05	236753	species	                  Fastidiosipila sanguinis
+0.004715	2	0	44	4.07	8.936e-06	2834348	genus	                Caproicibacterium
+0.004715	2	2	27	3.81	9.275e-06	2766537	species	                  Caproicibacterium amylolyticum
+0.002357	1	0	34	3.91	1.139e-05	253238	genus	                Ethanoligenens
+0.002357	1	1	34	3.91	1.139e-05	253239	species	                  Ethanoligenens harbinense
+0.002357	1	0	11	2	2.89e-06	2576755	genus	                Caproicibacter
+0.002357	1	1	11	2	2.89e-06	2576756	species	                  Caproicibacter fermentans
+0.4479	190	2	1400	16.1	4.416e-06	31979	family	              Clostridiaceae
+0.429	182	22	1197	15.2	4.47e-06	1485	genus	                Clostridium
+0.1438	61	58	92	55.1	3.068e-06	1491	species	                  Clostridium botulinum
+0.007072	3	3	8	23.4	2.161e-05	941968	strain	                    Clostridium botulinum H04402 065
+0.09665	41	41	281	13.1	1.555e-05	1502	species	                  Clostridium perfringens
+0.05186	22	22	65	16.5	7.102e-06	1492	species	                  Clostridium butyricum
+0.02829	12	0	121	4.83	3.266e-06	2614128	no rank	                  unclassified Clostridium
+0.0165	7	7	64	3.34	2.545e-05	2930219	species	                    Clostridium sp. BJN0001
+0.004715	2	2	17	12.7	4.625e-06	2934315	species	                    Clostridium sp. M3/9
+0.004715	2	2	14	7.07	3.715e-06	2779445	species	                    Clostridium sp. 'deep sea'
+0.002357	1	1	4	3	1.631e-06	1970093	species	                    Clostridium sp. 001
+0.02829	12	12	21	8.33	4.114e-06	1561	species	                  Clostridium baratii
+0.01179	5	5	14	4	5.29e-06	46867	species	                  Clostridium chauvoei
+0.007072	3	0	8	12.2	1.573e-06	1493	species	                  Clostridium cellulovorans
+0.007072	3	3	8	12.2	1.573e-06	573061	strain	                    Clostridium cellulovorans 743B
+0.004715	2	2	7	4	1.493e-06	36845	species	                  Clostridium intestinale
+0.002357	1	1	35	9.34	1.012e-05	1216932	species	                  Clostridium bornimense
+0.002357	1	1	44	6.93	3.354e-06	1520	species	                  Clostridium beijerinckii
+0.01414	6	0	31	39.3	5.557e-06	1649459	genus	                Hungatella
+0.01414	6	0	31	39.3	5.557e-06	154046	species	                  Hungatella hathewayi
+0.01414	6	6	31	39.3	5.557e-06	742737	strain	                    Hungatella hathewayi WAL-18680
+0.4243	180	0	328	24.7	8.727e-06	538999	no rank	              Eubacteriales incertae sedis
+0.3229	137	0	53	105	2.069e-05	2717089	genus	                Massilistercora
+0.3229	137	137	53	105	2.069e-05	2086584	species	                  Massilistercora timonensis
+0.07308	31	0	49	40	1.107e-05	1392389	genus	                Intestinimonas
+0.07308	31	31	49	40	1.107e-05	1297617	species	                  Intestinimonas butyriciproducens
+0.02357	10	0	103	3.83	3.638e-05	1918454	genus	                Flintibacter
+0.02357	10	0	103	3.83	3.638e-05	2610894	no rank	                  unclassified Flintibacter
+0.02357	10	10	103	3.83	3.638e-05	2610895	species	                    Flintibacter sp. KGMB00164
+0.004715	2	0	120	1.31	7.766e-06	543314	family	                Eubacteriales Family XIII. Incertae Sedis
+0.002357	1	0	39	1	9.105e-06	1926556	genus	                  Emergencia
+0.002357	1	1	39	1	9.105e-06	1776384	species	                    Emergencia timonensis
+0.002357	1	0	8	1	8.512e-07	2060094	genus	                  Aminipila
+0.002357	1	1	4	1	1.222e-06	433296	species	                    Aminipila butyrica
+0.1909	81	1	295	14.9	6.215e-06	186804	family	              Peptostreptococcaceae
+0.1697	72	0	56	56.6	1.898e-05	1501226	genus	                Romboutsia
+0.1697	72	0	56	56.6	1.898e-05	2626894	no rank	                  unclassified Romboutsia
+0.1697	72	72	56	56.6	1.898e-05	2724150	species	                    Romboutsia sp. CE17
+0.009429	4	0	8	7.5	1.993e-06	1505652	genus	                Terrisporobacter
+0.009429	4	0	8	7.5	1.993e-06	2633511	no rank	                  unclassified Terrisporobacter
+0.009429	4	4	8	7.5	1.993e-06	2813371	species	                    Terrisporobacter sp. MCA3
+0.004715	2	0	52	3.54	9.78e-06	1849828	genus	                Paeniclostridium
+0.004715	2	2	52	3.54	9.78e-06	1505	species	                  Paeniclostridium sordellii
+0.004715	2	0	16	1.62	4.264e-06	2743582	genus	                Peptacetobacter
+0.004715	2	2	16	1.62	4.264e-06	89152	species	                  Peptacetobacter hiranonis
+0.004715	2	0	38	7.5	7.301e-06	990719	family	              Christensenellaceae
+0.004715	2	0	38	7.5	7.301e-06	990721	genus	                Christensenella
+0.004715	2	0	29	9.48	1.23e-05	2649046	no rank	                  unclassified Christensenella
+0.004715	2	2	29	9.48	1.23e-05	2086585	species	                    Christensenella sp. Marseille-P3954
+0.004715	2	0	24	2.96	5.699e-07	2937909	family	              Desulfitobacteriaceae
+0.002357	1	0	15	4	9.801e-07	79206	genus	                Desulfosporosinus
+0.002357	1	0	8	3.75	1.659e-06	885581	species	                  Desulfosporosinus acidiphilus
+0.002357	1	1	8	3.75	1.659e-06	646529	strain	                    Desulfosporosinus acidiphilus SJ4
+0.002357	1	1	6	1	1.075e-06	56112	genus	                Dehalobacter
+0.004715	2	0	16	1	4.582e-06	1491775	family	              Proteinivoraceae
+0.004715	2	0	16	1	4.582e-06	2838170	genus	                Alkalicella
+0.004715	2	2	16	1	4.582e-06	2731377	species	                  Alkalicella caledoniensis
+0.002357	1	0	58	13.2	1.765e-06	186806	family	              Eubacteriaceae
+0.002357	1	0	21	29.8	9.175e-07	1730	genus	                Eubacterium
+0.002357	1	0	14	6.29	1.549e-06	2624479	no rank	                  unclassified Eubacterium
+0.002357	1	1	14	6.29	4.852e-06	2841037	species	                    Eubacterium sp. c-25
+0.002357	1	0	48	1.79	4.394e-06	68298	family	              Syntrophomonadaceae
+0.002357	1	0	3	1	1.261e-06	129001	genus	                Syntrophothermus
+0.002357	1	0	3	1	1.261e-06	86170	species	                  Syntrophothermus lipocalidus
+0.002357	1	1	3	1	1.261e-06	643648	strain	                    Syntrophothermus lipocalidus DSM 12680
+0.002357	1	0	32	6.41	5.042e-07	68295	order	            Thermoanaerobacterales
+0.002357	1	0	11	14.7	3.614e-06	543372	family	              Thermoanaerobacterales Family IV. Incertae Sedis
+0.002357	1	0	11	14.7	3.614e-06	252965	genus	                Mahella
+0.002357	1	0	11	14.7	3.614e-06	252966	species	                  Mahella australiensis
+0.002357	1	1	11	14.7	3.614e-06	697281	strain	                    Mahella australiensis 50-1 BON
+0.002357	1	0	31	2.13	1.602e-06	53433	order	            Halanaerobiales
+0.002357	1	0	22	2.59	1.985e-06	972	family	              Halanaerobiaceae
+0.002357	1	1	7	3.29	1.479e-06	2330	genus	                Halanaerobium
+7.265	3082	2	1068	245	1.417e-05	909932	class	          Negativicutes
+7.218	3062	0	576	359	2.291e-05	1843489	order	            Veillonellales
+7.218	3062	37	576	359	2.291e-05	31977	family	              Veillonellaceae
+6.782	2877	67	204	667	5.475e-05	39948	genus	                Dialister
+6.624	2810	2810	57	1.54e+03	4.59e-05	39950	species	                  Dialister pneumosintes
+0.3465	147	74	244	227	1.976e-05	29465	genus	                Veillonella
+0.1579	67	67	77	18.4	1.956e-05	29466	species	                  Veillonella parvula
+0.01414	6	6	18	29.7	9.395e-06	248315	species	                  Veillonella rodentium
+0.002357	1	0	114	3.86	1.258e-05	906	genus	                Megasphaera
+0.002357	1	1	67	2.81	1.681e-05	907	species	                  Megasphaera elsdenii
+0.02829	12	0	258	6.79	6.287e-06	909929	order	            Selenomonadales
+0.02357	10	0	213	7.6	1.013e-05	1843491	family	              Selenomonadaceae
+0.02122	9	1	129	7.45	2.078e-05	158846	genus	                Megamonas
+0.01886	8	8	65	7.55	1.601e-05	437897	species	                  Megamonas funiformis
+0.002357	1	0	21	8.43	7.539e-06	864	genus	                Pectinatus
+0.002357	1	1	21	8.43	7.539e-06	865	species	                  Pectinatus frisingensis
+0.004715	2	0	45	2.96	2.25e-06	1843490	family	              Sporomusaceae
+0.004715	2	2	33	3.18	3.231e-06	365348	genus	                Pelosinus
+0.01414	6	0	178	3.7	1.945e-05	1843488	order	            Acidaminococcales
+0.01414	6	2	178	3.7	1.945e-05	909930	family	              Acidaminococcaceae
+0.009429	4	0	105	3.8	2.334e-05	33024	genus	                Phascolarctobacterium
+0.009429	4	4	105	3.8	2.334e-05	33025	species	                  Phascolarctobacterium faecium
+0.2617	111	0	703	23.1	1.209e-05	526524	class	          Erysipelotrichia
+0.2617	111	0	703	23.1	1.209e-05	526525	order	            Erysipelotrichales
+0.2546	108	0	625	25.8	1.239e-05	128827	family	              Erysipelotrichaceae
+0.1603	68	0	170	53	6.294e-05	2678885	genus	                Faecalibacillus
+0.1603	68	68	170	53	6.294e-05	1982626	species	                  Faecalibacillus intestinalis
+0.06836	29	0	161	21.6	5.185e-05	2749267	genus	                Amedibacterium
+0.06836	29	29	161	21.6	5.185e-05	2583452	species	                  Amedibacterium intestinale
+0.01179	5	0	5	5	1.751e-06	1918536	genus	                Longicatena
+0.01179	5	5	5	5	1.751e-06	1796635	species	                  Longicatena caecimuris
+0.004715	2	0	139	2.2	1.179e-05	1505663	genus	                Erysipelatoclostridium
+0.004715	2	2	139	2.2	1.887e-05	1522	species	                  [Clostridium] innocuum
+0.004715	2	1	48	2	3.041e-06	1647	genus	                Erysipelothrix
+0.002357	1	1	6	1.67	2.526e-06	1514105	species	                  Erysipelothrix larvae
+0.004715	2	0	10	1.1	4.574e-06	2943184	genus	                Tannockella
+0.004715	2	2	10	1.1	4.574e-06	2899121	species	                  Tannockella kyphosi
+0.007072	3	0	78	1.49	1.01e-05	2810281	family	              Turicibacteraceae
+0.007072	3	2	78	1.49	1.01e-05	191303	genus	                Turicibacter
+0.002357	1	0	29	1	6.026e-06	2638206	no rank	                  unclassified Turicibacter
+0.002357	1	1	29	1	1.224e-05	1712675	species	                    Turicibacter sp. H121
+0.1862	79	1	2907	9.21	9.445e-07	91061	class	          Bacilli
+0.1226	52	2	1264	9.51	5.69e-07	1385	order	            Bacillales
+0.1014	43	0	661	8.88	6.356e-07	186817	family	              Bacillaceae
+0.07308	31	0	528	7.67	1.231e-06	1386	genus	                Bacillus
+0.06836	29	0	250	6.53	3.681e-06	653685	species group	                  Bacillus subtilis group
+0.05657	24	0	191	7.26	1.024e-05	1938374	species subgroup	                    Bacillus amyloliquefaciens group
+0.05657	24	24	154	8.12	1.702e-05	492670	species	                      Bacillus velezensis
+0.01179	5	5	55	4.4	4.088e-06	1423	species	                    Bacillus subtilis
+0.004715	2	1	192	11.6	1.452e-06	86661	species group	                  Bacillus cereus group
+0.002357	1	0	59	7.64	2.615e-06	1396	species	                    Bacillus cereus
+0.002357	1	1	3	1	0.00165	1454382	strain	                      Bacillus cereus D17
+0.02357	10	0	3	334	8.719e-08	2675230	genus	                Cytobacillus
+0.02357	10	10	3	334	2.748e-07	665099	species	                  Cytobacillus oceanisediminis
+0.002357	1	0	40	8.75	1.811e-06	150247	genus	                Anoxybacillus
+0.002357	1	0	27	1.41	6.313e-06	33934	species	                  Anoxybacillus flavithermus
+0.002357	1	1	27	1.41	1.363e-05	491915	strain	                    Anoxybacillus flavithermus WK1
+0.002357	1	0	7	1	7.975e-07	2817139	genus	                Weizmannia
+0.002357	1	1	7	1	7.975e-07	1398	species	                  Weizmannia coagulans
+0.004715	2	0	170	19.9	7.824e-07	90964	family	              Staphylococcaceae
+0.004715	2	0	169	20	1.009e-06	1279	genus	                Staphylococcus
+0.002357	1	1	81	21.3	6.317e-06	1280	species	                  Staphylococcus aureus
+0.002357	1	1	24	7	3.089e-06	1282	species	                  Staphylococcus epidermidis
+0.004715	2	0	63	5.6	9.299e-08	186822	family	              Paenibacillaceae
+0.002357	1	0	35	6.06	6.488e-08	44249	genus	                Paenibacillus
+0.002357	1	0	9	9	5.065e-08	185978	no rank	                  unclassified Paenibacillus
+0.002357	1	1	7	11	1.099e-06	2211212	species	                    Paenibacillus sp. DCT19
+0.002357	1	0	3	2.67	8.53e-08	329857	genus	                Cohnella
+0.002357	1	0	2	3.5	1.192e-07	2636738	no rank	                  unclassified Cohnella
+0.002357	1	1	2	3.5	2.339e-07	1619153	species	                    Cohnella sp. LGH
+0.004715	2	0	141	2.43	3.649e-06	539002	no rank	              Bacillales incertae sedis
+0.004715	2	0	137	2.36	1.544e-05	539738	no rank	                Bacillales Family XI. Incertae Sedis
+0.004715	2	2	137	2.36	1.544e-05	1378	genus	                  Gemella
+0.002357	1	1	33	35.2	1.482e-06	186824	family	              Thermoactinomycetaceae
+0.06129	26	1	1542	9.38	1.803e-06	186826	order	            Lactobacillales
+0.02593	11	0	707	5.4	1.816e-06	33958	family	              Lactobacillaceae
+0.007072	3	0	21	6.76	2.92e-07	1578	genus	                Lactobacillus
+0.007072	3	0	12	11	1.806e-06	1584	species	                  Lactobacillus delbrueckii
+0.007072	3	0	9	14.3	1.114e-05	1585	subspecies	                    Lactobacillus delbrueckii subsp. bulgaricus
+0.007072	3	3	9	14.3	9.108e-05	321956	strain	                      Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365
+0.004715	2	1	14	80.4	8.248e-07	1253	genus	                Pediococcus
+0.002357	1	1	11	1.55	2.267e-06	1255	species	                  Pediococcus pentosaceus
+0.002357	1	1	189	1.11	6.855e-06	46255	genus	                Weissella
+0.002357	1	1	1	180	3.391e-08	2759736	genus	                Lacticaseibacillus
+0.002357	1	0	26	4.08	9.238e-07	2767842	genus	                Lactiplantibacillus
+0.002357	1	1	26	4.08	1.816e-06	1590	species	                  Lactiplantibacillus plantarum
+0.002357	1	0	51	1.06	1.712e-06	2742598	genus	                Limosilactobacillus
+0.002357	1	1	27	1	3.722e-06	1613	species	                  Limosilactobacillus fermentum
+0.002357	1	0	39	1	1.952e-06	2767887	genus	                Ligilactobacillus
+0.002357	1	1	14	1	1.938e-06	1624	species	                  Ligilactobacillus salivarius
+0.002357	1	0	9	2.11	1.576e-06	2767882	genus	                Furfurilactobacillus
+0.002357	1	1	9	2.11	1.576e-06	231049	species	                  Furfurilactobacillus rossiae
+0.02357	10	0	609	9.69	2.269e-06	1300	family	              Streptococcaceae
+0.02122	9	5	570	9.87	2.53e-06	1301	genus	                Streptococcus
+0.009429	4	4	91	44.2	1.337e-05	1314	species	                  Streptococcus pyogenes
+0.002357	1	1	24	7.29	5.588e-07	1357	genus	                Lactococcus
+0.004715	2	0	48	14.6	3.548e-07	81852	family	              Enterococcaceae
+0.004715	2	0	48	14.6	4.928e-07	1350	genus	                Enterococcus
+0.002357	1	1	18	32.4	2.101e-06	1352	species	                  Enterococcus faecium
+0.002357	1	0	25	4.12	2.215e-06	1351	species	                  Enterococcus faecalis
+0.002357	1	1	4	3	0.0001031	1201292	strain	                    Enterococcus faecalis ATCC 29212
+0.004715	2	2	35	10.3	8.476e-07	186828	family	              Carnobacteriaceae
+0.004715	2	0	93	6.74	2.187e-06	1737404	class	          Tissierellia
+0.002357	1	0	67	6.1	1.853e-06	1737405	order	            Tissierellales
+0.002357	1	0	15	6.2	1.859e-06	1737406	family	              Tissierellaceae
+0.002357	1	0	12	7.5	5.382e-06	1354809	genus	                Keratinibaculum
+0.002357	1	1	12	7.5	5.382e-06	1278232	species	                  Keratinibaculum paraultunense
+0.002357	1	0	21	10.1	3.344e-06	1737407	no rank	            Tissierellia incertae sedis
+0.002357	1	0	16	6.12	4.86e-06	1582879	genus	              Ezakiella
+0.002357	1	1	3	9	1.76e-06	46507	species	                Ezakiella coagulans
+0.02829	12	0	959	4.15	1.586e-07	201174	phylum	        Actinobacteria
+0.02122	9	2	602	5.39	1.022e-07	1760	class	          Actinomycetia
+0.009429	4	0	25	4.24	7.856e-07	85013	order	            Frankiales
+0.009429	4	0	25	4.24	7.856e-07	74712	family	              Frankiaceae
+0.009429	4	0	25	4.24	7.856e-07	1854	genus	                Frankia
+0.009429	4	4	25	4.24	4.902e-06	106370	species	                  Frankia casuarinae
+0.007072	3	0	261	3.01	2.984e-06	85004	order	            Bifidobacteriales
+0.007072	3	0	261	3.01	2.984e-06	31953	family	              Bifidobacteriaceae
+0.007072	3	3	196	2.96	2.561e-06	1678	genus	                Bifidobacterium
+0.007072	3	1	267	1.58	4.032e-06	84998	class	          Coriobacteriia
+0.004715	2	0	250	1.55	6.721e-06	1643822	order	            Eggerthellales
+0.004715	2	0	250	1.55	6.721e-06	1643826	family	              Eggerthellaceae
+0.004715	2	0	178	1.04	1.329e-05	84111	genus	                Eggerthella
+0.004715	2	2	80	1.07	1.25e-05	84112	species	                  Eggerthella lenta
+0.009429	4	0	144	4.23	2.042e-07	1798711	clade	        Cyanobacteria/Melainabacteria group
+0.009429	4	0	144	4.23	2.042e-07	1117	phylum	          Cyanobacteria
+0.009429	4	1	34	6.15	1.303e-07	1161	order	            Nostocales
+0.007072	3	0	28	6.43	1.787e-07	1162	family	              Nostocaceae
+0.007072	3	2	27	6.63	2.137e-07	1177	genus	                Nostoc
+0.002357	1	0	2	17	2.139e-08	2593658	no rank	                  unclassified Nostoc
+0.002357	1	1	2	17	2.662e-07	2576902	species	                    Nostoc sp. C052
+0.004715	2	0	221	3.09	1.586e-06	544448	phylum	        Tenericutes
+0.004715	2	0	189	3.32	1.507e-06	31969	class	          Mollicutes
+0.004715	2	0	114	3.75	1.701e-06	2085	order	            Mycoplasmatales
+0.004715	2	2	114	3.75	1.701e-06	2092	family	              Mycoplasmataceae
+1.648	699	2	21400	7.87	1.442e-06	1224	phylum	      Proteobacteria
+0.7968	338	5	668	29.6	2.601e-07	28216	class	        Betaproteobacteria
+0.752	319	2	221	45.8	1.063e-07	80840	order	          Burkholderiales
+0.6742	286	0	65	117	7.797e-06	995019	family	            Sutterellaceae
+0.6742	286	4	65	117	7.797e-06	40544	genus	              Sutterella
+0.6624	281	281	24	314	8.259e-06	40545	species	                Sutterella wadsworthensis
+0.002357	1	1	16	1.31	5.778e-06	2584944	species	                Sutterella faecalis
+0.06129	26	0	43	26.3	1.557e-07	506	family	            Alcaligenaceae
+0.06129	26	0	3	292	1.566e-06	1472344	genus	              Basilea
+0.06129	26	0	3	292	1.566e-06	1472345	species	                Basilea psittacipulmonis
+0.06129	26	26	3	292	1.566e-06	1072685	strain	                  Basilea psittacipulmonis DSM 24701
+0.009429	4	0	55	21.2	1.211e-07	80864	family	            Comamonadaceae
+0.009429	4	0	15	5	1.568e-06	215579	genus	              Schlegelella
+0.009429	4	4	8	5.88	2.334e-06	215580	species	                Schlegelella thermodepolymerans
+0.002357	1	0	25	4.04	2.544e-08	119060	family	            Burkholderiaceae
+0.002357	1	0	2	25	9.321e-09	1822464	genus	              Paraburkholderia
+0.002357	1	1	2	25	2.852e-07	2571748	species	                Paraburkholderia acidisoli
+0.01886	8	0	55	11.1	5.083e-07	32003	order	          Nitrosomonadales
+0.0165	7	0	37	14.8	1.42e-06	206379	family	            Nitrosomonadaceae
+0.0165	7	0	37	14.8	2.568e-06	914	genus	              Nitrosomonas
+0.0165	7	0	1	312	3.774e-07	915	species	                Nitrosomonas europaea
+0.0165	7	7	1	312	3.774e-07	228410	strain	                  Nitrosomonas europaea ATCC 19718
+0.002357	1	0	7	1	3.609e-07	90627	family	            Gallionellaceae
+0.002357	1	0	7	1	2.292e-06	96	genus	              Gallionella
+0.002357	1	0	7	1	2.292e-06	370405	species	                Gallionella capsiferriformans
+0.002357	1	1	7	1	2.292e-06	395494	strain	                  Gallionella capsiferriformans ES-2
+0.009429	4	0	228	5.04	9.379e-07	206351	order	          Neisseriales
+0.007072	3	1	177	1.27	1.394e-06	481	family	            Neisseriaceae
+0.004715	2	2	15	2.27	2.185e-07	482	genus	              Neisseria
+0.002357	1	0	26	34.7	2.24e-07	1499392	family	            Chromobacteriaceae
+0.002357	1	0	2	5	5.438e-07	187	genus	              Aquaspirillum
+0.002357	1	0	2	5	5.438e-07	2620219	no rank	                unclassified Aquaspirillum
+0.002357	1	1	2	5	5.438e-07	1938604	species	                  Aquaspirillum sp. LM1
+0.002357	1	0	10	30.2	1.059e-06	119066	no rank	          Betaproteobacteria incertae sedis
+0.002357	1	0	8	1	1.676e-05	1381133	genus	            Candidatus Profftella
+0.002357	1	1	8	1	1.676e-05	669502	species	              Candidatus Profftella armatura
+0.002357	1	0	12	1	9.495e-08	206389	order	          Rhodocyclales
+0.002357	1	0	12	1	3.03e-07	75787	family	            Rhodocyclaceae
+0.002357	1	0	12	1	3.623e-06	1911577	genus	              Oryzomicrobium
+0.002357	1	1	12	1	3.623e-06	1735038	species	                Oryzomicrobium terrae
+0.7543	320	8	19052	6.56	2.631e-06	1236	class	        Gammaproteobacteria
+0.5799	246	6	15547	4.68	8.082e-06	91347	order	          Enterobacterales
+0.5068	215	51	13328	3.96	1.389e-05	543	family	            Enterobacteriaceae
+0.1344	57	0	1319	7.5	7.067e-06	2890311	no rank	              Klebsiella/Raoultella group
+0.1131	48	3	1308	6.26	8.43e-06	570	genus	                Klebsiella
+0.09193	39	37	563	12.8	1.763e-05	573	species	                  Klebsiella pneumoniae
+0.004715	2	2	62	4.44	7.255e-05	72407	subspecies	                    Klebsiella pneumoniae subsp. pneumoniae
+0.004715	2	2	12	5	1.57e-06	244366	species	                  Klebsiella variicola
+0.002357	1	0	62	2.69	5.934e-06	2608929	no rank	                  unclassified Klebsiella
+0.002357	1	1	31	1.77	0.02793	2829835	species	                    Klebsiella sp. P1954
+0.002357	1	1	20	3.85	1.589e-06	548	species	                  Klebsiella aerogenes
+0.002357	1	0	24	1	1.84e-06	1463165	species	                  Klebsiella quasipneumoniae
+0.002357	1	1	24	1	0.0001078	1463164	subspecies	                    Klebsiella quasipneumoniae subsp. similipneumoniae
+0.002357	1	1	8	2	5.908e-07	571	species	                  Klebsiella oxytoca
+0.02122	9	0	11	155	3.881e-07	160674	genus	                Raoultella
+0.02122	9	0	10	170	3.285e-06	2627600	no rank	                  unclassified Raoultella
+0.02122	9	9	10	170	8.61e-05	2799495	species	                    Raoultella sp. XY-1
+0.1179	50	1	2377	5.66	2.452e-05	561	genus	              Escherichia
+0.1131	48	46	2248	5.87	3.369e-05	562	species	                Escherichia coli
+0.002357	1	1	17	23	0.002606	2491878	strain	                  Escherichia coli O4:H5
+0.002357	1	1	29	4.86	5.497e-05	83334	serotype	                  Escherichia coli O157:H7
+0.002357	1	1	34	1	3.965e-06	208962	species	                Escherichia albertii
+0.0825	35	0	873	6.04	1.259e-05	590	genus	              Salmonella
+0.0825	35	0	849	6.18	1.546e-05	28901	species	                Salmonella enterica
+0.0825	35	0	785	6.6	3.825e-05	59201	subspecies	                  Salmonella enterica subsp. enterica
+0.03536	15	15	228	9.69	0.003105	2583588	no rank	                    Salmonella enterica subsp. enterica serovar 1,4,[5],12:i:-
+0.01179	5	0	23	24	8.53e-05	108619	no rank	                    Salmonella enterica subsp. enterica serovar Newport
+0.01179	5	5	23	24	0.02738	877468	strain	                      Salmonella enterica subsp. enterica serovar Newport str. USMARC-S3124.1
+0.007072	3	0	35	15.4	0.0006488	611	no rank	                    Salmonella enterica subsp. enterica serovar Heidelberg
+0.007072	3	3	20	26.2	0.01242	1124936	strain	                      Salmonella enterica subsp. enterica serovar Heidelberg str. 41578
+0.007072	3	3	69	4.62	0.003496	600	no rank	                    Salmonella enterica subsp. enterica serovar Thompson
+0.004715	2	2	64	6.02	0.01025	2579247	no rank	                    Salmonella enterica subsp. enterica serovar Rough O:-:-
+0.004715	2	0	51	2.41	0.0003788	58096	no rank	                    Salmonella enterica subsp. enterica serovar Bareilly
+0.002357	1	1	31	2.13	0.01445	1182177	strain	                      Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000752
+0.002357	1	1	20	2.85	0.01783	1182172	strain	                      Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000661
+0.004715	2	0	14	5.14	0.0008887	57046	no rank	                    Salmonella enterica subsp. enterica serovar Paratyphi C
+0.004715	2	2	14	5.14	0.0008887	476213	strain	                      Salmonella enterica subsp. enterica serovar Paratyphi C str. RKS4594
+0.002357	1	0	36	5.86	0.0003159	1242084	no rank	                    Salmonella enterica subsp. enterica serovar Krefeld
+0.002357	1	1	36	5.86	0.0003159	1242106	strain	                      Salmonella enterica subsp. enterica serovar Krefeld str. SA20030536
+0.002357	1	1	65	2.03	9.423e-05	90371	no rank	                    Salmonella enterica subsp. enterica serovar Typhimurium
+0.002357	1	0	15	1	1.742e-05	1242082	no rank	                    Salmonella enterica subsp. enterica serovar India
+0.002357	1	1	15	1	1.742e-05	1242098	strain	                      Salmonella enterica subsp. enterica serovar India str. SA20085604
+0.01886	8	0	163	3.25	9.616e-07	547	genus	              Enterobacter
+0.01886	8	0	144	3.52	1.522e-06	354276	species group	                Enterobacter cloacae complex
+0.007072	3	0	54	2.39	1.793e-05	2757714	no rank	                  unclassified Enterobacter cloacae complex
+0.007072	3	3	46	2.63	3.074e-05	2027919	species	                    Enterobacter cloacae complex sp.
+0.004715	2	2	25	9.84	2.817e-06	61645	species	                  Enterobacter asburiae
+0.004715	2	2	56	1.54	4.265e-06	158836	species	                  Enterobacter hormaechei
+0.002357	1	1	1	1	1.583e-07	299767	species	                  Enterobacter ludwigii
+0.01179	5	3	723	1.02	5.566e-06	544	genus	              Citrobacter
+0.004715	2	0	316	1	6.604e-06	1344959	species group	                Citrobacter freundii complex
+0.004715	2	2	88	1	3.754e-06	546	species	                  Citrobacter freundii
+0.004715	2	0	31	6.87	8.643e-06	1177214	genus	              Candidatus Profftia
+0.004715	2	0	31	6.87	2.638e-05	2735709	no rank	                unclassified Candidatus Profftia
+0.004715	2	2	31	6.87	2.638e-05	2864218	species	                  Candidatus Profftia sp. (ex Adelges kitamiensis)
+0.004715	2	0	49	2.78	2.049e-06	191675	no rank	              Enterobacteriaceae incertae sedis
+0.004715	2	0	49	2.78	2.049e-06	84563	clade	                ant, tsetse, mealybug, aphid, etc. endosymbionts
+0.004715	2	0	18	3.28	4.28e-06	146507	clade	                  aphid secondary symbionts
+0.004715	2	0	18	3.28	1.083e-05	568987	genus	                    Candidatus Hamiltonella
+0.004715	2	0	18	3.28	1.083e-05	138072	species	                      Candidatus Hamiltonella defensa
+0.004715	2	2	18	3.28	1.083e-05	672795	forma specialis	                        Candidatus Hamiltonella defensa (Bemisia tabaci)
+0.002357	1	0	131	13.4	4.839e-05	620	genus	              Shigella
+0.002357	1	1	98	15.9	7.297e-05	623	species	                Shigella flexneri
+0.002357	1	0	17	2.82	2.131e-06	702	genus	              Plesiomonas
+0.002357	1	1	17	2.82	2.131e-06	703	species	                Plesiomonas shigelloides
+0.002357	1	0	13	1	2.728e-06	2815296	genus	              Jejubacter
+0.002357	1	1	13	1	2.728e-06	2579935	species	                Jejubacter calystegiae
+0.002357	1	0	2	2	7.679e-08	413496	genus	              Cronobacter
+0.002357	1	1	2	2	2.576e-07	28141	species	                Cronobacter sakazakii
+0.002357	1	0	2	1	1.549e-07	579	genus	              Kluyvera
+0.002357	1	0	2	1	4.993e-07	2619995	no rank	                unclassified Kluyvera
+0.002357	1	1	2	1	4.993e-07	2873269	species	                  Kluyvera sp. CRP
+0.04007	17	0	332	5.22	1.64e-06	1903414	family	            Morganellaceae
+0.03064	13	0	206	4.4	8.883e-06	581	genus	              Morganella
+0.03064	13	12	206	4.4	8.883e-06	582	species	                Morganella morganii
+0.002357	1	1	3	1.33	1.148e-06	180434	subspecies	                  Morganella morganii subsp. morganii
+0.009429	4	0	34	7.47	3.416e-06	637	genus	              Arsenophonus
+0.009429	4	0	29	8.55	5.439e-06	2627083	no rank	                unclassified Arsenophonus
+0.009429	4	4	29	8.55	1.042e-05	1541805	species	                  Arsenophonus endosymbiont of Apis mellifera
+0.009429	4	0	214	4.2	7.471e-07	1903411	family	            Yersiniaceae
+0.009429	4	0	140	4.88	1.697e-06	629	genus	              Yersinia
+0.007072	3	0	31	7.03	6.08e-06	29484	species	                Yersinia frederiksenii
+0.007072	3	3	31	7.03	0.0005568	1454377	strain	                  Yersinia frederiksenii Y225
+0.002357	1	0	89	4.98	7.908e-06	1649845	species group	                Yersinia pseudotuberculosis complex
+0.002357	1	0	53	6.62	9.37e-05	632	species	                  Yersinia pestis
+0.002357	1	1	30	8.4	0.03788	649716	strain	                    Yersinia pestis Pestoides G
+0.004715	2	0	85	37.4	3.875e-07	1903409	family	            Erwiniaceae
+0.002357	1	0	23	134	1.492e-06	32199	genus	              Buchnera
+0.002357	1	0	23	134	1.492e-06	9	species	                Buchnera aphidicola
+0.002357	1	1	1	1	2.367e-06	98804	forma specialis	                  Buchnera aphidicola (Tuberolachnus salignus)
+0.002357	1	0	10	2.2	1.575e-07	551	genus	              Erwinia
+0.002357	1	1	4	1	8.195e-07	65700	species	                Erwinia tracheiphila
+0.002357	1	0	71	13.7	3.83e-06	2812006	family	            Bruguierivoracaceae
+0.002357	1	0	71	13.7	3.83e-06	84565	genus	              Sodalis
+0.002357	1	0	59	16	3.009e-05	1486991	species	                Candidatus Sodalis pierantonius
+0.002357	1	1	59	16	3.009e-05	2342	strain	                  Candidatus Sodalis pierantonius str. SOPE
+0.002357	1	0	131	7.18	8.064e-07	1903410	family	            Pectobacteriaceae
+0.002357	1	0	86	9.47	1.107e-06	122277	genus	              Pectobacterium
+0.002357	1	1	75	10.6	1.222e-05	1905730	species	                Pectobacterium parmentieri
+0.1131	48	0	512	9.91	3.454e-06	135625	order	          Pasteurellales
+0.1131	48	0	512	9.91	3.454e-06	712	family	            Pasteurellaceae
+0.1037	44	1	230	9.67	6.333e-06	724	genus	              Haemophilus
+0.09665	41	41	176	7.74	1.318e-05	729	species	                Haemophilus parainfluenzae
+0.004715	2	0	17	1	1.993e-05	2609962	no rank	                unclassified Haemophilus
+0.004715	2	2	17	1	1.993e-05	712310	species	                  Haemophilus sp. oral taxon 036
+0.002357	1	0	25	13.8	1.122e-06	745	genus	              Pasteurella
+0.002357	1	1	25	13.8	2.425e-06	747	species	                Pasteurella multocida
+0.002357	1	1	33	1	2.428e-06	416916	genus	              Aggregatibacter
+0.002357	1	0	22	1.32	4.536e-06	1960084	genus	              Rodentibacter
+0.002357	1	1	22	1.32	9.282e-06	2778911	species	                Rodentibacter haemolyticus
+0.002357	1	0	9	1.44	4.438e-06	109471	genus	              Bisgaardia
+0.002357	1	1	9	1.44	4.438e-06	109472	species	                Bisgaardia hudsonensis
+0.02357	10	0	257	4.74	1.272e-06	135624	order	          Aeromonadales
+0.02357	10	3	245	4.52	1.248e-06	84642	family	            Aeromonadaceae
+0.0165	7	2	217	4.63	1.242e-06	642	genus	              Aeromonas
+0.007072	3	3	76	7.28	3.418e-06	654	species	                Aeromonas veronii
+0.004715	2	2	30	7.27	6.383e-06	652	species	                Aeromonas schubertii
+0.007072	3	0	121	40.7	7.127e-08	72274	order	          Pseudomonadales
+0.007072	3	0	121	40.7	7.436e-08	135621	family	            Pseudomonadaceae
+0.007072	3	0	114	40.4	7.176e-08	286	genus	              Pseudomonas
+0.002357	1	0	24	156	5.943e-08	196821	no rank	                unclassified Pseudomonas
+0.002357	1	1	16	232	3.779e-06	2762896	species	                  Pseudomonas sp. MPDS
+0.002357	1	0	26	18.2	4.495e-07	136846	species group	                Pseudomonas stutzeri group
+0.002357	1	0	26	18.2	5.239e-07	578833	species subgroup	                  Pseudomonas stutzeri subgroup
+0.002357	1	1	26	18.2	5.437e-07	316	species	                    Pseudomonas stutzeri
+0.002357	1	0	27	11.5	2.537e-07	136845	species group	                Pseudomonas putida group
+0.002357	1	0	23	13.3	3.226e-07	303	species	                  Pseudomonas putida
+0.002357	1	1	22	13.9	0.0001622	1193499	strain	                    Pseudomonas putida SJTE-1
+0.004715	2	0	85	7.35	2.275e-07	2887326	order	          Moraxellales
+0.004715	2	0	85	7.35	2.275e-07	468	family	            Moraxellaceae
+0.004715	2	2	5	3.6	1.28e-07	497	genus	              Psychrobacter
+0.002357	1	0	38	23.8	9.674e-07	118884	no rank	          Gammaproteobacteria incertae sedis
+0.002357	1	0	16	55.2	2.409e-05	204619	genus	            Candidatus Nardonella
+0.002357	1	1	2	146	9.195e-06	1971488	species	              endosymbiont of Pachyrhynchus infernalis
+0.002357	1	0	26	24.3	2.368e-07	118969	order	          Legionellales
+0.002357	1	0	22	27.8	1.624e-06	118968	family	            Coxiellaceae
+0.002357	1	1	11	54.4	2.547e-06	776	genus	              Coxiella
+0.002357	1	0	81	3.89	5.626e-07	135613	order	          Chromatiales
+0.002357	1	0	36	3.33	5.77e-07	1046	family	            Chromatiaceae
+0.002357	1	0	14	5.36	2.25e-06	85072	genus	              Allochromatium
+0.002357	1	1	14	5.36	5.049e-06	553982	species	                Allochromatium tepidum
+0.08722	37	0	405	9.77	3.92e-07	68525	subphylum	        delta/epsilon subdivisions
+0.08486	36	0	318	11.2	4.775e-07	28221	class	          Deltaproteobacteria
+0.06365	27	0	127	11.6	1.122e-06	213115	order	            Desulfovibrionales
+0.06129	26	1	109	11.7	1.05e-06	194924	family	              Desulfovibrionaceae
+0.04479	19	0	34	3.62	1.994e-05	41707	genus	                Lawsonia
+0.04479	19	19	34	3.62	1.994e-05	29546	species	                  Lawsonia intracellularis
+0.01414	6	0	7	20.7	1.988e-06	2909705	genus	                Oleidesulfovibrio
+0.01414	6	0	7	20.7	1.988e-06	58180	species	                  Oleidesulfovibrio alaskensis
+0.01414	6	6	7	20.7	1.988e-06	207559	strain	                    Oleidesulfovibrio alaskensis G20
+0.002357	1	0	5	1	1.771e-06	213117	family	              Desulfohalobiaceae
+0.002357	1	0	5	1	1.771e-06	45662	genus	                Desulfohalobium
+0.002357	1	0	5	1	1.771e-06	45663	species	                  Desulfohalobium retbaense
+0.002357	1	1	5	1	1.771e-06	485915	strain	                    Desulfohalobium retbaense DSM 5692
+0.009429	4	0	52	19.1	1.762e-07	29	order	            Myxococcales
+0.009429	4	2	36	25.2	2.085e-07	80811	suborder	              Cystobacterineae
+0.002357	1	0	8	21.8	1.884e-06	1524213	family	                Vulgatibacteraceae
+0.002357	1	0	8	21.8	1.884e-06	1524214	genus	                  Vulgatibacter
+0.002357	1	1	8	21.8	1.884e-06	1391653	species	                    Vulgatibacter incomptus
+0.002357	1	0	1	36	1.342e-08	31	family	                Myxococcaceae
+0.002357	1	0	1	36	2.461e-08	32	genus	                  Myxococcus
+0.002357	1	1	1	36	4.496e-08	34	species	                    Myxococcus xanthus
+0.007072	3	0	60	10.3	5.628e-07	213118	order	            Desulfobacterales
+0.007072	3	0	44	12.5	6.625e-07	213119	family	              Desulfobacteraceae
+0.007072	3	0	4	88.8	7.341e-07	2904687	genus	                Desulforapulum
+0.007072	3	0	4	88.8	7.341e-07	2296	species	                  Desulforapulum autotrophicum
+0.007072	3	3	4	88.8	7.341e-07	177437	strain	                    Desulforapulum autotrophicum HRM2
+0.002357	1	0	21	4.86	2.015e-07	69541	order	            Desulfuromonadales
+0.002357	1	0	14	6.29	1.423e-06	2812024	family	              Syntrophotaleaceae
+0.002357	1	0	14	6.29	1.423e-06	2812025	genus	                Syntrophotalea
+0.002357	1	1	1	3	3.179e-07	1842532	species	                  Syntrophotalea acetylenivorans
+0.002357	1	0	19	1.74	1.02e-06	1779134	order	            Bradymonadales
+0.002357	1	0	17	1.82	2.921e-06	2946505	family	              Microvenatoraceae
+0.002357	1	0	17	1.82	2.921e-06	2946507	genus	                Microvenator
+0.002357	1	1	17	1.82	2.921e-06	2600177	species	                  Microvenator marinus
+0.002357	1	0	67	5.63	1.825e-07	29547	class	          Epsilonproteobacteria
+0.002357	1	0	63	5.83	1.803e-07	213849	order	            Campylobacterales
+0.002357	1	0	18	2	1.475e-07	72294	family	              Campylobacteraceae
+0.002357	1	0	18	2	1.475e-07	194	genus	                Campylobacter
+0.002357	1	1	1	1	6.946e-07	2505970	species	                  Campylobacter armoricus
+0.004715	2	0	351	4.77	8.975e-08	28211	class	        Alphaproteobacteria
+0.002357	1	0	71	6.1	1.195e-07	204457	order	          Sphingomonadales
+0.002357	1	0	45	7.8	9.885e-08	41297	family	            Sphingomonadaceae
+0.002357	1	0	27	12.2	1.537e-07	13687	genus	              Sphingomonas
+0.002357	1	0	17	16.7	2.443e-07	196159	no rank	                unclassified Sphingomonas
+0.002357	1	1	5	32	1.336e-06	745310	species	                  Sphingomonas sp. MM-1
+0.002357	1	0	5	1	6.729e-07	82117	no rank	          Alphaproteobacteria incertae sedis
+0.002357	1	0	5	1	1.831e-06	62654	clade	            SAR116 cluster
+0.002357	1	0	5	1	1.831e-06	767891	genus	              Candidatus Puniceispirillum
+0.002357	1	0	5	1	1.831e-06	767892	species	                Candidatus Puniceispirillum marinum
+0.002357	1	1	5	1	1.831e-06	488538	strain	                  Candidatus Puniceispirillum marinum IMCC1322
+0.04007	17	0	443	6.45	4.851e-06	32066	phylum	      Fusobacteria
+0.04007	17	0	443	6.45	4.851e-06	203490	class	        Fusobacteriia
+0.04007	17	0	443	6.45	4.851e-06	203491	order	          Fusobacteriales
+0.03536	15	0	402	6.83	7.114e-06	203492	family	            Fusobacteriaceae
+0.03536	15	0	317	7.26	6.269e-06	848	genus	              Fusobacterium
+0.02829	12	12	59	7.39	9.228e-06	861	species	                Fusobacterium ulcerans
+0.002357	1	0	33	1.76	1.145e-05	1583098	species	                Fusobacterium hwasookii
+0.002357	1	1	31	1.77	0.0002071	1307444	strain	                  Fusobacterium hwasookii ChDC F300
+0.002357	1	1	5	9.6	1.674e-06	856	species	                Fusobacterium varium
+0.002357	1	0	25	1	9.623e-06	850	species	                Fusobacterium mortiferum
+0.002357	1	1	25	1	9.623e-06	469616	strain	                  Fusobacterium mortiferum ATCC 9817
+0.004715	2	0	30	2.93	8.63e-07	1129771	family	            Leptotrichiaceae
+0.004715	2	0	4	6	3.092e-06	168808	genus	              Sneathia
+0.004715	2	2	4	6	3.092e-06	187101	species	                Sneathia vaginalis
+0.007072	3	0	308	10.1	6.24e-07	1783257	clade	      PVC group
+0.007072	3	0	218	13.1	2.629e-06	74201	phylum	        Verrucomicrobia
+0.007072	3	0	192	14.6	4.456e-06	203494	class	          Verrucomicrobiae
+0.007072	3	0	192	14.6	4.456e-06	48461	order	            Verrucomicrobiales
+0.004715	2	0	14	188	6.105e-07	203557	family	              Verrucomicrobiaceae
+0.004715	2	0	12	219	1.521e-06	1348508	genus	                Roseimicrobium
+0.004715	2	0	12	219	1.521e-06	2711230	no rank	                  unclassified Roseimicrobium
+0.004715	2	2	12	219	1.521e-06	2711231	species	                    Roseimicrobium sp. ORNL1
+0.002357	1	0	162	1	8.038e-06	1647988	family	              Akkermansiaceae
+0.002357	1	0	162	1	8.038e-06	239934	genus	                Akkermansia
+0.002357	1	1	137	1	8e-06	239935	species	                  Akkermansia muciniphila
+0.007072	3	0	15	1	2.803e-07	200918	phylum	      Thermotogae
+0.007072	3	0	15	1	2.803e-07	188708	class	        Thermotogae
+0.002357	1	0	6	1	1.848e-07	2419	order	          Thermotogales
+0.002357	1	0	6	1	3.908e-07	1643950	family	            Fervidobacteriaceae
+0.002357	1	0	6	1	7.699e-07	2422	genus	              Fervidobacterium
+0.002357	1	1	6	1	3.006e-06	2423	species	                Fervidobacterium islandicum
+0.002357	1	0	5	1	4.972e-07	1643946	order	          Kosmotogales
+0.002357	1	0	5	1	4.972e-07	1643948	family	            Kosmotogaceae
+0.002357	1	0	5	1	1.145e-06	651456	genus	              Kosmotoga
+0.002357	1	1	5	1	2.328e-06	1330330	species	                Kosmotoga pacifica
+0.002357	1	0	3	1	3.341e-07	1643947	order	          Petrotogales
+0.002357	1	0	3	1	3.341e-07	1643949	family	            Petrotogaceae
+0.002357	1	0	2	1	1.012e-06	1511648	genus	              Defluviitoga
+0.002357	1	1	2	1	1.012e-06	1006576	species	                Defluviitoga tunisiensis
+0.03772	16	0	2835	1.31	1.093e-06	2759	superkingdom	    Eukaryota
+0.03772	16	0	2835	1.31	1.093e-06	33154	clade	      Opisthokonta
+0.03772	16	0	2835	1.31	1.093e-06	33208	kingdom	        Metazoa
+0.03772	16	0	2835	1.31	1.093e-06	6072	clade	          Eumetazoa
+0.03772	16	0	2835	1.31	1.093e-06	33213	clade	            Bilateria
+0.03772	16	0	2835	1.31	1.093e-06	33511	clade	              Deuterostomia
+0.03772	16	0	2835	1.31	1.093e-06	7711	phylum	                Chordata
+0.03772	16	0	2835	1.31	1.093e-06	89593	subphylum	                  Craniata
+0.03772	16	0	2835	1.31	1.093e-06	7742	clade	                    Vertebrata
+0.03772	16	0	2835	1.31	1.093e-06	7776	clade	                      Gnathostomata
+0.03772	16	0	2835	1.31	1.093e-06	117570	clade	                        Teleostomi
+0.03772	16	0	2835	1.31	1.093e-06	117571	clade	                          Euteleostomi
+0.03772	16	0	2835	1.31	1.093e-06	8287	superclass	                            Sarcopterygii
+0.03772	16	0	2835	1.31	1.093e-06	1338369	clade	                              Dipnotetrapodomorpha
+0.03772	16	0	2835	1.31	1.093e-06	32523	clade	                                Tetrapoda
+0.03772	16	0	2835	1.31	1.093e-06	32524	clade	                                  Amniota
+0.03772	16	0	2835	1.31	1.093e-06	40674	class	                                    Mammalia
+0.03772	16	0	2835	1.31	1.093e-06	32525	clade	                                      Theria
+0.03772	16	0	2835	1.31	1.093e-06	9347	clade	                                        Eutheria
+0.03772	16	0	2835	1.31	1.093e-06	1437010	clade	                                          Boreoeutheria
+0.03772	16	0	2835	1.31	1.093e-06	314146	superorder	                                            Euarchontoglires
+0.03772	16	0	2835	1.31	1.093e-06	9443	order	                                              Primates
+0.03772	16	0	2835	1.31	1.093e-06	376913	suborder	                                                Haplorrhini
+0.03772	16	0	2835	1.31	1.093e-06	314293	infraorder	                                                  Simiiformes
+0.03772	16	0	2835	1.31	1.093e-06	9526	parvorder	                                                    Catarrhini
+0.03772	16	0	2835	1.31	1.093e-06	314295	superfamily	                                                      Hominoidea
+0.03772	16	0	2835	1.31	1.093e-06	9604	family	                                                        Hominidae
+0.03772	16	0	2835	1.31	1.093e-06	207598	subfamily	                                                          Homininae
+0.03772	16	0	2835	1.31	1.093e-06	9605	genus	                                                            Homo
+0.03772	16	16	2835	1.31	1.093e-06	9606	species	                                                              Homo sapiens
+3.776	1602	0	439	1.49e+03	0.0001186	2787854	no rank	  other entries
+3.776	1602	0	439	1.49e+03	0.0001186	28384	no rank	    other sequences
+3.776	1602	0	439	1.49e+03	0.0001186	81077	no rank	      artificial sequences
+3.776	1602	1602	439	1.49e+03	0.0001186	32630	species	        synthetic construct
+0.01414	6	0	21	10	7.041e-08	10239	superkingdom	  Viruses
+0.01414	6	0	21	10	1.135e-07	2731341	clade	    Duplodnaviria
+0.01414	6	0	21	10	1.135e-07	2731360	kingdom	      Heunggongvirae
+0.01414	6	0	21	10	1.235e-07	2731618	phylum	        Uroviricota
+0.01414	6	0	21	10	1.235e-07	2731619	class	          Caudoviricetes
+0.01414	6	0	20	10.2	1.237e-07	28883	order	            Caudovirales
+0.01179	5	0	8	10.6	1.478e-07	10699	family	              Siphoviridae
+0.01179	5	0	8	10.6	0.000162	2843398	genus	                Kamchatkavirus
+0.01179	5	0	8	10.6	0.000162	2843645	species	                  Kamchatkavirus AP45
+0.01179	5	5	8	10.6	0.000162	1913112	no rank	                    Aeribacillus phage AP45
+0.002357	1	0	5	3.6	7.692e-08	10662	family	              Myoviridae
+0.002357	1	0	4	4.25	4.02e-07	1198136	subfamily	                Tevenvirinae
+0.002357	1	1	4	4.25	2.713e-06	10663	genus	                  Tequatrovirus
